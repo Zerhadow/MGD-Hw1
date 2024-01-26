@@ -441,6 +441,7 @@ MonoBehaviour:
   SpawnCooldown: 3
   _spawnList:
   - {fileID: 4549945117582617916, guid: d628d99eb2263464dbe99d7d7bff17fd, type: 3}
+  - {fileID: 4549945117582617916, guid: 3ce8bd42d21c0e640989ca5628809b67, type: 3}
 --- !u!1 &961402888
 GameObject:
   m_ObjectHideFlags: 0
