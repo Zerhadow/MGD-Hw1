@@ -110,4 +110,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4f4e3a32f3bd784e86bea931f98b710, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PowerUpDuration: 0.05
+  PowerUpDuration: 2
