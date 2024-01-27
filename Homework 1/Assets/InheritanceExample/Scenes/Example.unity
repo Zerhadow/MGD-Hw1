@@ -438,7 +438,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _minSpawnLoc: {fileID: 1086840292}
   _maxSpawnLoc: {fileID: 1216905056}
-  SpawnCooldown: 1
+  SpawnCooldown: 3
   _spawnList:
   - {fileID: 4549945117582617916, guid: d628d99eb2263464dbe99d7d7bff17fd, type: 3}
   - {fileID: 4549945117582617916, guid: 3ce8bd42d21c0e640989ca5628809b67, type: 3}
